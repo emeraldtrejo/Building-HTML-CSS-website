@@ -1,0 +1,51 @@
+
+<!doctype html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>correlate - A smarter expense tracker</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="Description" lang="en" content="">
+  
+	<!-- we are using LAYOUT.CSS for this document! -->
+  
+</head>
+<body>
+<!-- banner -->
+<div class="row row--banner">
+  banner
+</div>
+
+<!-- features -->
+<div class="row row--white row--padding-wide">
+  features
+</div>
+
+<!-- photos -->
+<div class="row">
+  photots
+</div>
+
+<!-- testimonials -->
+<div class="row row--white row--padding-wide">
+  testimonials
+</div>
+
+<!-- facts -->
+<div class="row row--grey row--padding-wide">
+  facts
+</div>
+
+<!-- press -->
+<div class="row row--blue row--padding-medium">
+  press
+</div>
+
+<!-- footer -->
+<div class="row row--dark-grey row--padding-wide">
+   footer
+</div>
+
+</body>
+</html>
