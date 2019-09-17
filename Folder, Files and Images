@@ -1,0 +1,97 @@
+<!--HTML5Shiv enables to use HTML5 in IE prior to version 9  -->
+<!-- respond.min.js is a lightweight polyfill that forces IE 6-8 to support min/max width CSS3 Media queries -->
+<!-- icon slate is used to help compile .ico files -->
+<!--  -->
+/*
+@media (min-width: 38em)
+{
+  /* These rules would only be applied by devices that have a min viewport width of 38em
+  */
+}
+*/
+
+<!doctype html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--specifying IE="edge" will force Internet explorer 8/9/10 to render the webpage in highest document mode  -->
+<!--viewport meta tag allows web developers to control the viewports size and scale   -->
+<meta name="viewport" content="width=device-width, intial-scale=1">
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="correlate - A smarter expense tracker">
+<meta itemprop="description" content="correlate is an easy to use, smarter expense tracker">
+<meta itemprop="image" content="http://correlate.com/correlate.png">
+
+<!-- Twitter Card data -->
+<!-- twitter information can be added to allow to control how website appears when ashared via twitter -->
+<!--this defines how website will be defined and appear  -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@correlate-news">
+<meta name="twitter:title" content="correlate - A smarter expense tracker">
+<meta name="twitter:description" content="correlate is an easy to use, smarter expense tracker">
+<meta name="twitter:creator" content="@author_handle">
+<meta name="twitter:image:src" content="http://correlate.com/correlate.png">
+
+<!-- open graph information can be added to allow you to control how your web pages appear when shared on facebook -->
+<!--prefix has to be added in the HTML tag before graph meta information can be added  -->
+<meta property="og:title" content="Correlate">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://correlate.com">
+<meta property="og:image" content="http://correlate.com/correlate.png">
+<meta property="og:description" content="correlate is an easy to use, smarter expense tracker">
+
+<!-- Apple touch icons is how the website is saved and the icon that appears -->
+<!-- Apple touch icon links -->
+<!-- for chrome for anndroid -->
+<link rel="icon" sizes="192x192" href="touch-icon-192x192.png">
+<!-- iphone 6 plus with @3x displayt a device pixel ratio of 3 -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="apple-touch-icon-180x180-precomposed.png">
+<!-- for ipad with @2x display ios >7 -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152-precomposed.png">
+<!-- ipad with @2x display ios <6 -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
+<!--for iphone with @2x display ios >7  -->
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="apple-touch-icon-120x120-precomposed.png">
+<!-- iphone with @2x display ios <6 -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+<!--  ipad mini and the first and second generation ipad on ios > 7-->
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="apple-touch-icon-76x76-precomposed.png">
+<!-- ipad mini and first and second generation ipad @1x display on ios < 6 -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+<!-- non retina iphone, ipod touch and android 2.1+ devices -->
+<link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+<!-- Favicon link -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- IE tile icon links -->
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="msapplication-TileImage" content="assets/img/ms-icon-144x144.png">
+	<meta name="msapplication-square310x310logo" content="assets/img/ms-icon-310x310.png">
+	<meta name="msapplication-wide310x150logo" content="assets/img/ms-icon-310x150.png">
+	<meta name="msapplication-square150x150logo" content="assets/img/ms-icon-150x150.png">
+	<meta name="msapplication-square70x70logo" content="assets/img/ms-icon-70x70.png">
+</head>
+<body>
+
+<header role="banner">
+<!-- banner -->
+<nav role="navigation">
+<footer role="contentinfo">
+
+
+
+<!-- features -->
+
+<!-- photos -->
+
+<!-- testimonials -->
+
+<!-- facts -->
+
+<!-- press -->
+
+<!-- footer -->
+</body>
+</html>
