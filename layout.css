@@ -44,6 +44,34 @@ layout
 
 /*containers*/
 
+.container-narrow,
+.container-medium,
+.container-wide
+{
+  margin: 0 auto;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+
+.container-narrow
+{
+  max-width: 34em;
+  background: yellow;
+}
+
+.container-medium
+{
+  max-width: 58em;
+  background: green;
+}
+
+.container-wide
+{
+  max-width: 34em;
+  background: lime;
+}
+
+
 /*columns*/
 
 /*wide*/
@@ -62,6 +90,14 @@ layout
   padding-top: 5.5556em;
   padding-bottom: 5.5556em;
   /*100px/18px */
+}
+  
+.container-narrow,
+.container-medium,
+.container-wide
+{
+  padding-left: 2em;
+  padding-right: 2em;
 }
  
 }
