@@ -15,10 +15,23 @@
 <!-- banner -->
 <div class="row row--banner">
   banner
-  <header class="row container-wide">
-  	container-wide
+  <header class="row container-wide header" role="banner">
+    <div class="header_logo">
+      <img src="assets/img/logo.png" alt="correlate">
+     </div>
+     <nav class="header_nav" role="navigation">
+       <ul>
+         <li class="header_nav-about"><a href="#">About</a></li>
+	 <li> class="header_nav-contact current"><a href="#">Contact</a></li>
+       </ul>
+      </nav>
+	container-wide
   </header>
-  <section class="row container-medium">
+  <section class="row container-medium banner-content">
+   <h1 class="banner-content_heading">
+   A smarter expense tracker
+   </h1>
+   <a href="#"><img src="assets/img/icon-cta.png" alt="App Store"></a>
   	container-medium
   </section>
 </div>
